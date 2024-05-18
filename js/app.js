@@ -1,1 +1,3 @@
-console.log('new function');
+(function(){
+    console.log("bye");
+})();
